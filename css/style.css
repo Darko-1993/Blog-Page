@@ -116,7 +116,8 @@ hr {
 
 .blog-posts__title h2 {
   padding: 0 0 8px 0;
-  border-bottom: 2px solid  #1515af;
+  border-bottom: 2px solid 
+ #1515af;
   display: inline-block;
 }
 
@@ -269,7 +270,7 @@ hr {
   position: absolute;
   top: 6px;
   left: 0;
-  background-image: url("/images/dot.svg");
+  background-image: url("../images/dot.svg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 10px;
